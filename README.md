@@ -89,19 +89,20 @@ Two normalization steps are applied to every hand before training and inference:
 
 ### Prerequisites
 
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn mediapipe opencv-python joblib
-```
-
-### Run the Notebook
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ahmed-Tarek1/Hand-Gesture-Classification.git
    cd Hand-Gesture-Classification
    ```
 
-2. Open `ML1.ipynb` in Jupyter or Google Colab and run all cells.
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+### Run the Notebook
+
+3. Open `ML1.ipynb` in Jupyter or Google Colab and run all cells.
 
 3. The trained model is saved as `best_gesture_model.pkl` and `label_encoder.pkl`.
 

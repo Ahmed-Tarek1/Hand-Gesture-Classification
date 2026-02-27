@@ -340,7 +340,7 @@ def plot_annotated_sample(df, gesture_name, normalized=True, save_path=None):
 
 
 # ════════════════════════════════════════════════════════════════════════════
-# USAGE — copy these cells into your notebook
+# USAGE 
 # ════════════════════════════════════════════════════════════════════════════
 
 if __name__ == "__main__":

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/873954054679570757/e884d2756dc44119a1741ce97c527437/artifacts
+end_time: 1772314297032
+entry_point_name: ''
+experiment_id: '873954054679570757'
+lifecycle_stage: active
+run_id: e884d2756dc44119a1741ce97c527437
+run_name: RandomForest_n300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772314253691
+status: 3
+tags: []
+user_id: ahmedtarek

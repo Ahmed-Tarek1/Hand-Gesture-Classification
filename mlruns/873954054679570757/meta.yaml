@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/873954054679570757
+creation_time: 1772313367716
+experiment_id: '873954054679570757'
+last_update_time: 1772313367716
+lifecycle_stage: active
+name: HandGesture_Classification_Experiment
+workspace: default

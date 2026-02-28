@@ -1,0 +1,16 @@
+creation_timestamp: 1772313770339
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1772313770339
+model_id: m-b8a9a0970189446280d8432fc3994e9f
+name: HandGesture_Production_Model
+run_id: 0e72d5964a54465bbc1f71d22fa54b83
+run_link: ''
+source: models:/m-b8a9a0970189446280d8432fc3994e9f
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/873954054679570757/models/m-b8a9a0970189446280d8432fc3994e9f/artifacts
+user_id: null
+version: 1
+workspace: default

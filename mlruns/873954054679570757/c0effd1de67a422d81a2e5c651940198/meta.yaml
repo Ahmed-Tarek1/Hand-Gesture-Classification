@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/873954054679570757/c0effd1de67a422d81a2e5c651940198/artifacts
+end_time: 1772313691277
+entry_point_name: ''
+experiment_id: '873954054679570757'
+lifecycle_stage: active
+run_id: c0effd1de67a422d81a2e5c651940198
+run_name: KNN_k3_distance
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772313687143
+status: 3
+tags: []
+user_id: ahmedtarek

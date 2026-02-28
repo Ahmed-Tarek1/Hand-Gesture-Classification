@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/873954054679570757/788ec642958f476eb8292183e45a486c/artifacts
+end_time: 1772313629829
+entry_point_name: ''
+experiment_id: '873954054679570757'
+lifecycle_stage: active
+run_id: 788ec642958f476eb8292183e45a486c
+run_name: SVM_GridSearch_RBF
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772313406815
+status: 3
+tags: []
+user_id: ahmedtarek
